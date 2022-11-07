@@ -4,6 +4,9 @@
 
 [Plan de estudios](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) del grado en informática
 
+![](./images/mapaGradoInformatica.png)
+
+
 ## 2DOs académicos
 
 1. Introducir asignatura de [Arquitectura de Software](./AdSw.md).
