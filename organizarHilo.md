@@ -6,8 +6,8 @@ Qué quiero...
 |-|-|-|-|-
 ||Intro a todo  |MdD        |Análisis           |Patrones
 ||              |Requisitos |Diseño             |Arquitecturas
-||              |           |*Desarrollo* (\*)    |*RUP* (\*)
-||              |           |*Pruebas* (\*)       |*Agilismo* (\*)
+||              |           |*Desarrollo (\*)*    |*RUP (\*)*
+||              |           |*Pruebas (\*)*       |*Agilismo (\*)*
 
  > **\*** Ya visto en otras asignaturas del grado, aquí se contextualiza la discicplina.
 
