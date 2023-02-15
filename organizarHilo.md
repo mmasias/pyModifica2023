@@ -4,9 +4,9 @@ Qué quiero...
 
 ||iGPySw|IdSw1|IdSw2|AdSw
 |-|-|-|-|-
-||Intro a todo  |MdD        |Análisis           |Patrones
-||              |Requisitos |Diseño             |Arquitecturas
-||              |           |*Desarrollo (\*)*    |*RUP (\*)*
+||Intro a todo  |MdD        |Requisitos           |Patrones
+||              |Analisis   |              |Arquitecturas
+||              |Diseño     |*RUP (\*)*
 ||              |           |*Pruebas (\*)*       |*Agilismo (\*)*
 
  > **\*** Ya visto en otras asignaturas del grado, aquí se contextualiza la discicplina.
