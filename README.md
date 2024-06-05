@@ -15,4 +15,4 @@ Introducir asignatura de [Arquitectura de Software](./AdSw.md)|
 [Organizar el hilo iGPySw / IdSw1 / IdSw2 / AdSw](./organizarHilo.md)|
 [Unificar asignaturas de Matemática Discreta y Lógica](./unificarMDisLog.md)|Visto con JC y JB
 [Verificar instrumentos de evaluación y actividades](./evaluacionesInformatica.md)|
-
+Cambio de nombre "Introducción a la gestión de..." por "Fundamentos de gestión de..."
