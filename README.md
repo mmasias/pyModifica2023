@@ -4,8 +4,9 @@
 
 [Plan de estudios](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) del grado en informática
 
-![](./images/mapaGradoInformatica.png)
-
+|Dónde estamos|Adónde queremos llegar|
+|-|-|
+![](./images/mapaGradoInformatica.png)|![](./images/mapaGradoInformatica2024.png)
 
 ## 2DOs académicos
 
