@@ -6,7 +6,7 @@
 
 |Dónde estamos|Adónde queremos llegar|
 |-|-|
-![](./images/mapaGradoInformatica.png)|![](./images/mapaGradoInformatica2024.png)
+![](./images/mapaGradoInformatica.png)|![](/images/modelosUML/malla.svg)
 
 ## 2DOs académicos
 

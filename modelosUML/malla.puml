@@ -1,0 +1,115 @@
+@startuml
+
+package Informatica as "Ingeniería informática" {
+
+    package IV as "Cuarto curso" {
+        package s2 as "Segundo semestre" {
+            class TFG <<ProyectoFinal>> #DDA0DD {
+                +créditos: 12
+            }
+            class DSI <<Conexion>> #FFFF99
+            class EEE <<Conexion>> #FFFF99
+            class OPT4 <<Optativa>> #FFFFFF
+        }
+        package s1 as "Primer semestre" {
+            class SDPP <<Desarrollo>> #FFA500
+            class INTA <<Desarrollo>> #FFA500
+            class PRY <<Construccion>> #90EE90
+            class PRCT <<Conexion>> #FFFF99
+            class OPT3 <<Optativa>> #FFFFFF
+        }
+    }
+
+    package III as "Tercer curso" {
+        package s2 as "Segundo semestre" {
+            class PW2 <<Desarrollo>> #FFA500
+            class SICR <<Desarrollo>> #FFA500
+            class ASW <<Construccion>> #90EE90
+            class ING4 <<Conexion>> #FFFF99
+            class OPT2 <<Optativa>> #FFFFFF
+        }
+        package s1 as "Primer semestre" {
+            class PW1 <<Desarrollo>> #FFA500
+            class ETI <<Conexion>> #FFFF99
+            class ISW2 <<Construccion>> #90EE90
+            class ING3 <<Conexion>> #FFFF99
+            class OPT1 <<Optativa>> #FFFFFF
+        }
+    }
+
+    package II as "Segundo curso" {
+        package s2 as "Segundo semestre" {
+            class EDA2 <<Desarrollo>> #FFA500
+            class BD2 <<Desarrollo>> #FFA500
+            class ISW1 <<Construccion>> #90EE90
+            class SOP <<Conexion>> #FFFF99
+            class LPR <<Conexion>> #FFFF99
+        }
+        package s1 as "Primer semestre" {
+            class EDA1 <<Desarrollo>> #FFA500
+            class BD1 <<Desarrollo>> #FFA500
+            class MNUM <<Ingenieria>> #DDA0DD
+            class RED <<Ingenieria>> #DDA0DD
+            class EST <<Ingenieria>> #DDA0DD
+        }
+    }
+
+    package I as "Primer curso" {
+        package s2 as "Segundo semestre" {
+            class PRG2 <<Desarrollo>> #FFA500
+            class TIC <<Conexion>> #FFFF99
+            class LOG <<Ingenieria>> #DDA0DD
+            class MAT2 <<Ingenieria>> #DDA0DD
+            class MDISC <<Ingenieria>> #DDA0DD
+        }
+        package s1 as "Primer semestre" {
+            class PRG1 <<Desarrollo>> #FFA500
+            class FPySw <<Construccion>> #90EE90
+            class TEO <<Conexion>> #FFFF99
+            class MAT1 <<Ingenieria>> #DDA0DD
+            class FIS <<Ingenieria>> #DDA0DD
+        }
+    }
+
+}
+
+PRG1 -[hidden]d- FPySw
+FPySw -[hidden]d- TEO
+TEO  -[hidden]d- MAT1
+MAT1  -[hidden]d-  FIS
+
+PRG2  -[hidden]d- TIC
+TIC  -[hidden]d- LOG
+LOG  -[hidden]d- MAT2
+MAT2  -[hidden]d- MDISC
+
+EDA1 -[hidden]d- BD1
+BD1 -[hidden]d- MNUM
+MNUM -[hidden]d- RED
+RED -[hidden]d- EST
+
+EDA2 -[hidden]d- BD2
+BD2 -[hidden]d- ISW1
+ISW1 -[hidden]d- SOP
+SOP -[hidden]d- LPR
+
+PW1 -[hidden]d- ETI
+ETI -[hidden]d- ISW2
+ISW2 -[hidden]d- ING3
+ING3 -[hidden]d- OPT1
+
+PW2 -[hidden]d- SICR
+SICR -[hidden]d- ASW
+ASW -[hidden]d- ING4
+ING4 -[hidden]d- OPT2
+
+SDPP -[hidden]d- INTA
+INTA -[hidden]d- PRY
+PRY -[hidden]d- PRCT
+PRCT -[hidden]d- OPT3
+
+TFG -[hidden]d- DSI
+DSI -[hidden]d- EEE
+EEE -[hidden]d- OPT4
+
+@enduml
