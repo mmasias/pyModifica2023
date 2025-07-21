@@ -2,7 +2,7 @@
 
 Qué quiero...
 
-||iGPySw|IdSw1|IdSw2|AdSw
+||FPSW|ISW1|ISW2|ASW
 |-|-|-|-|-
 ||Intro a todo  |MdD        |Requisitos           |Patrones
 ||              |Analisis   |              |Arquitecturas
@@ -13,7 +13,7 @@ Qué quiero...
 
  ## Propuesta de distribución
 
-* **I año - 1** : iGPySw
-* **II año - 2** : IdSw1
-* **III año - 1** : IdSw2
-* **III año - 2** : AdSw
+* **I año - 1** : FPSW
+* **II año - 2** : ISW1
+* **III año - 1** : ISW2
+* **III año - 2** : ASW

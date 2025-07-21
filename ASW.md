@@ -1,4 +1,4 @@
-# Asignatura "Arquitectura del Software" (AdSw)
+# Asignatura "Arquitectura del Software" (ASW)
 
 ## Motivación
 

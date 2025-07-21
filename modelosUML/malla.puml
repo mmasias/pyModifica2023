@@ -2,8 +2,6 @@
 
 hide circle
 
-skinparam PackageBorderThickness 999
-'skinparam PackageBorderColor #ffffff
 skinparam packageStyle frame
 
 package Informatica as "Ingeniería informática" {
@@ -25,11 +23,6 @@ package Informatica as "Ingeniería informática" {
                 ---
                 <sub>6 créditos</sub>
             }
-'             class FANTASMA #FFFF99 {
-'                 <sub><i><<Conexion>></i></sub>
-'                 ---
-'                 <sub>6 créditos</sub>
-'             }
             class OPT4 #FFFFFF {
                 <sub><i><<Optativa>></i></sub>
                 ---
