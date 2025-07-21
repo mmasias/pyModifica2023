@@ -1,73 +1,234 @@
 @startuml
 
+hide circle
+
 package Informatica as "Ingeniería informática" {
 
     package IV as "Cuarto curso" {
         package s2 as "Segundo semestre" {
-            class TFG <<ProyectoFinal>> #DDA0DD {
-                +créditos: 12
+            class TFG #DDA0DD {
+                <sub><i><<ProyectoFinal>></i></sub>
+                ---
+                <sub>12 créditos</sub>
             }
-            class DSI <<Conexion>> #FFFF99
-            class EEE <<Conexion>> #FFFF99
-            class OPT4 <<Optativa>> #FFFFFF
+            class DSI #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class EEE #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+'             class FANTASMA #FFFF99 {
+'                 <sub><i><<Conexion>></i></sub>
+'                 ---
+'                 <sub>6 créditos</sub>
+'             }
+            class OPT4 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
         package s1 as "Primer semestre" {
-            class SDPP <<Desarrollo>> #FFA500
-            class INTA <<Desarrollo>> #FFA500
-            class PRY <<Construccion>> #90EE90
-            class PRCT <<Conexion>> #FFFF99
-            class OPT3 <<Optativa>> #FFFFFF
+            class SDPP #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class INTA #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class PRY #90EE90 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class PRCT #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class OPT3 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
     }
 
     package III as "Tercer curso" {
         package s2 as "Segundo semestre" {
-            class PW2 <<Desarrollo>> #FFA500
-            class SICR <<Desarrollo>> #FFA500
-            class ASW <<Construccion>> #90EE90
-            class ING4 <<Conexion>> #FFFF99
-            class OPT2 <<Optativa>> #FFFFFF
+            class PW2 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class SICR #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ASW #90EE90 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ING4 #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class OPT2 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
         package s1 as "Primer semestre" {
-            class PW1 <<Desarrollo>> #FFA500
-            class ETI <<Conexion>> #FFFF99
-            class ISW2 <<Construccion>> #90EE90
-            class ING3 <<Conexion>> #FFFF99
-            class OPT1 <<Optativa>> #FFFFFF
+            class PW1 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ETI #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ISW2 #90EE90 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ING3 #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class OPT1 #FFFFFF {
+                <sub><i><<Optativa>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
     }
 
     package II as "Segundo curso" {
         package s2 as "Segundo semestre" {
-            class EDA2 <<Desarrollo>> #FFA500
-            class BD2 <<Desarrollo>> #FFA500
-            class ISW1 <<Construccion>> #90EE90
-            class SOP <<Conexion>> #FFFF99
-            class LPR <<Conexion>> #FFFF99
+            class EDA2 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class BD2 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class ISW1 #90EE90 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class SOP #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class LPR #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
         package s1 as "Primer semestre" {
-            class EDA1 <<Desarrollo>> #FFA500
-            class BD1 <<Desarrollo>> #FFA500
-            class MNUM <<Ingenieria>> #DDA0DD
-            class RED <<Ingenieria>> #DDA0DD
-            class EST <<Ingenieria>> #DDA0DD
+            class EDA1 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class BD1 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MNUM #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class RED #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class EST #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
     }
 
     package I as "Primer curso" {
         package s2 as "Segundo semestre" {
-            class PRG2 <<Desarrollo>> #FFA500
-            class TIC <<Conexion>> #FFFF99
-            class LOG <<Ingenieria>> #DDA0DD
-            class MAT2 <<Ingenieria>> #DDA0DD
-            class MDISC <<Ingenieria>> #DDA0DD
+            class PRG2 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class TIC #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class LOG #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MAT2 #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MDISC #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
         package s1 as "Primer semestre" {
-            class PRG1 <<Desarrollo>> #FFA500
-            class FPySw <<Construccion>> #90EE90
-            class TEO <<Conexion>> #FFFF99
-            class MAT1 <<Ingenieria>> #DDA0DD
-            class FIS <<Ingenieria>> #DDA0DD
+            class PRG1 #FFA500 {
+                <sub><i><<Desarrollo>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class FPySw #90EE90 {
+                <sub><i><<Construccion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class TEO #FFFF99 {
+                <sub><i><<Conexion>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class MAT1 #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
+            class FIS #DDA0DD {
+                <sub><i><<Ingenieria>></i></sub>
+                ---
+                <sub>6 créditos</sub>
+            }
         }
     }
 
@@ -108,7 +269,7 @@ INTA -[hidden]d- PRY
 PRY -[hidden]d- PRCT
 PRCT -[hidden]d- OPT3
 
-TFG -[hidden]d- DSI
+TFG -[hidden]d-- DSI
 DSI -[hidden]d- EEE
 EEE -[hidden]d- OPT4
 
