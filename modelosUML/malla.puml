@@ -2,10 +2,14 @@
 
 hide circle
 
+skinparam PackageBorderThickness 999
+'skinparam PackageBorderColor #ffffff
+skinparam packageStyle frame
+
 package Informatica as "Ingeniería informática" {
 
-    package IV as "Cuarto curso" {
-        package s2 as "Segundo semestre" {
+    package IV as "Cuarto curso" #a0ddbdff {
+        package s2 as "Segundo semestre" #FFFFFF {
             class TFG #DDA0DD {
                 <sub><i><<ProyectoFinal>></i></sub>
                 ---
@@ -32,7 +36,7 @@ package Informatica as "Ingeniería informática" {
                 <sub>6 créditos</sub>
             }
         }
-        package s1 as "Primer semestre" {
+        package s1 as "Primer semestre"  #FFFFFF {
             class SDPP #FFA500 {
                 <sub><i><<Desarrollo>></i></sub>
                 ---
@@ -61,8 +65,8 @@ package Informatica as "Ingeniería informática" {
         }
     }
 
-    package III as "Tercer curso" {
-        package s2 as "Segundo semestre" {
+    package III as "Tercer curso" #b8e6ccff {
+        package s2 as "Segundo semestre" #FFFFFF {
             class PW2 #FFA500 {
                 <sub><i><<Desarrollo>></i></sub>
                 ---
@@ -89,7 +93,7 @@ package Informatica as "Ingeniería informática" {
                 <sub>6 créditos</sub>
             }
         }
-        package s1 as "Primer semestre" {
+        package s1 as "Primer semestre" #FFFFFF {
             class PW1 #FFA500 {
                 <sub><i><<Desarrollo>></i></sub>
                 ---
@@ -118,8 +122,8 @@ package Informatica as "Ingeniería informática" {
         }
     }
 
-    package II as "Segundo curso" {
-        package s2 as "Segundo semestre" {
+    package II as "Segundo curso" #d0f0daff {
+        package s2 as "Segundo semestre" #FFFFFF {
             class EDA2 #FFA500 {
                 <sub><i><<Desarrollo>></i></sub>
                 ---
@@ -146,7 +150,7 @@ package Informatica as "Ingeniería informática" {
                 <sub>6 créditos</sub>
             }
         }
-        package s1 as "Primer semestre" {
+        package s1 as "Primer semestre" #FFFFFF {
             class EDA1 #FFA500 {
                 <sub><i><<Desarrollo>></i></sub>
                 ---
@@ -175,8 +179,8 @@ package Informatica as "Ingeniería informática" {
         }
     }
 
-    package I as "Primer curso" {
-        package s2 as "Segundo semestre" {
+    package I as "Primer curso" #e8f5efff {
+        package s2 as "Segundo semestre" #FFFFFF {
             class PRG2 #FFA500 {
                 <sub><i><<Desarrollo>></i></sub>
                 ---
@@ -203,13 +207,13 @@ package Informatica as "Ingeniería informática" {
                 <sub>6 créditos</sub>
             }
         }
-        package s1 as "Primer semestre" {
+        package s1 as "Primer semestre" #FFFFFF {
             class PRG1 #FFA500 {
                 <sub><i><<Desarrollo>></i></sub>
                 ---
                 <sub>6 créditos</sub>
             }
-            class FPySw #90EE90 {
+            class FPYSW #90EE90 {
                 <sub><i><<Construccion>></i></sub>
                 ---
                 <sub>6 créditos</sub>
@@ -234,8 +238,8 @@ package Informatica as "Ingeniería informática" {
 
 }
 
-PRG1 -[hidden]d- FPySw
-FPySw -[hidden]d- TEO
+PRG1 -[hidden]d- FPYSW
+FPYSW -[hidden]d- TEO
 TEO  -[hidden]d- MAT1
 MAT1  -[hidden]d-  FIS
 
