@@ -4,8 +4,6 @@
 
 Tecnología específica elegida: **Ingeniería del Software**
 
----
-
 ## Resumen crediticio
 
 | Módulo BOE | ECTS exigidos | ECTS asignados | Estado |
@@ -16,8 +14,6 @@ Tecnología específica elegida: **Ingeniería del Software**
 | Trabajo Fin de Grado | 12 | 12 | ✓ Conforme |
 | Resto (optativas, prácticas, otros obligatorios) | — | 60 | N/A |
 | **Total** | **240** | **240** | |
-
----
 
 ## Módulo Formación Básica (60 ECTS) — 10 asignaturas
 
@@ -33,8 +29,6 @@ Tecnología específica elegida: **Ingeniería del Software**
 | S2 | Programación II | 6 | Programación |
 | S3 | Matemática numérica | 6 | Fundamentos matemáticos de la informática |
 | S3 | Estadística | 6 | Fundamentos matemáticos de la informática |
-
----
 
 ## Módulo Común a la rama de informática (60 ECTS) — 10 asignaturas
 
@@ -74,8 +68,6 @@ Tecnología específica elegida: **Ingeniería del Software**
 | C17: Interfaces persona-computador, accesibilidad | RAC7 | ✓ | Programación web I, Programación web II |
 | C18: Normativa y regulación informática | RAC8 | ✓ | Seguridad informática y criptografía |
 
----
-
 ## Módulo Tecnología Específica — Ingeniería del Software (48 ECTS) — 8 asignaturas
 
 | Sem | Asignatura | ECTS | RAs activos |
@@ -102,8 +94,6 @@ Tecnología específica elegida: **Ingeniería del Software**
 
 **Resultado: 6/6 competencias cubiertas. Sin gaps.**
 
----
-
 ## Asignaturas sin adscripción a módulo BOE (18 ECTS obligatorios + optativas + prácticas)
 
 | Sem | Asignatura | ECTS | Carácter |
@@ -114,8 +104,6 @@ Tecnología específica elegida: **Ingeniería del Software**
 | S8 | Economía de la empresa y emprendedores | 6 | Obligatoria |
 | S5-S8 | Optativas (1 mención completa) | 24 | Optativa |
 | S7 | Prácticas Académicas Externas | 6 | Prácticas Externas |
-
----
 
 ## Diagnóstico de gaps y estrategia de justificación
 
