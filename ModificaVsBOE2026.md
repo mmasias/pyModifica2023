@@ -10,7 +10,7 @@ Mención elegida: **Ingeniería del Software**
 
 ---
 
-## Cambios incluidos en la modifica
+## Cambios incluidos en el modifica
 
 | Cambio | Tipo | Impacto BOE |
 |---|---|---|
