@@ -17,7 +17,7 @@ Mención elegida: **Ingeniería del Software**
 | Incorporación de ASW (Arquitectura de Software) | Alta (nueva asignatura) | Cubre IS3/RAH14 directamente; refuerza IS1, IS4, IS5, IS6 |
 | Eliminación de ING2 (Inglés II) | Baja (supresión) | Elimina 6 ECTS obligatorios sin bloque BOE |
 | Posición de ASW: 3S2 (malla) vs. 4S1 (ficha ASW.md) | Pendiente de resolver | Sin impacto en conformidad, sí en prerequisitos |
-| Unificación Matemática Discreta + Lógica | En discusión | Sin impacto en conformidad; reduce sobrecarga de 1S2 |
+
 
 ---
 
@@ -51,7 +51,7 @@ El BOE 2026 exige materias de: álgebra lineal, cálculo, métodos numéricos, e
 | S3 | MNUM | Matemática numérica | 6 | Fundamentos matemáticos de la informática |
 | S3 | EST | Estadística | 6 | Fundamentos matemáticos de la informática |
 
-> **Nota sobre la unificación MDISC+LOG.** Si se aprueba la fusión en discusión, los 12 ECTS resultantes seguirán cubriendo ambas materias BOE (matemática discreta y lógica) sin afectar la conformidad del bloque.
+
 
 ---
 
