@@ -54,4 +54,5 @@ La Resolución BOE-A-2026-10594 abre la vía para que el grado obtenga carácter
 - Las cuatro lagunas del módulo común (C9, C16, C2, C3) se resuelven por argumentación de cobertura cruzada entre módulos; solo C3 (negociación, liderazgo, comunicación) requiere acción, añadiendo un resultado de aprendizaje explícito a una asignatura del común.
 - El cambio de fondo en la memoria es documental: invertir el campo "Habilita para profesiones reguladas" a Sí y declarar la mención con sus 8 asignaturas.
 
-Análisis completo, competencia a competencia: [ModificaVsBOE2026.md](ModificaVsBOE2026.md)
+- Análisis completo, competencia a competencia: [ModificaVsBOE2026.md](ModificaVsBOE2026.md)
+- Contraste de los RA del grado con los del BOE y ajustes de redacción propuestos: [misRAsVSboeRAs.md](misRAsVSboeRAs.md)
