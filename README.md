@@ -10,12 +10,30 @@
 |-|-|
 ![](./images/mapaGradoInformatica.png)|![](/images/modelosUML/malla.svg)
 
-## 2DOs académicos
+## Materias y asignaturas
 
-|Qué hacer|2Think|Estado
-|-|-|:-:|
-Introducir asignatura de [Arquitectura de Software](./ASW.md)||Ok!
-Cambiar el nombre de "Introducción a la gestión de proyectos de software" por "Fundamentos de proyectos de software"|Discutido con LF|Ok!
-[Organizar el hilo FPSW / ISW1 / ISW2 / ASW](./organizarHilo.md)||Ok!
-[Unificar asignaturas de Matemática Discreta y Lógica](./unificarMDisLog.md)|Visto con JC y JB|No
-[Verificar instrumentos de evaluación y actividades](./evaluacionesInformatica.md)||Ok
+Organización del grado por materias, según la matriz de `gII2025.xlsx`:
+
+| Materia | Asignaturas | ECTS |
+|---|---|---|
+| Fundamentos físicos de la informática | Física | 6 |
+| Fundamentos matemáticos de la informática | Mat I, Mat II, M. discreta, M. numérica, Estadística, Lógica | 36 |
+| Programación | Prog I, Prog II, EDA1, EDA2, Lenguajes de programación, PW1, PW2 | 42 |
+| Ingeniería del software, SI y sistemas inteligentes | FPSW, TIC, BD1, BD2, ISW1, ISW2, ASW, DSI, IA, Proyectos | 60 |
+| Ingeniería de ordenadores | Tecnología y estructura de ordenadores | 6 |
+| Sistemas operativos, sistemas distribuidos y redes | Redes, SO, SDPP, Seguridad informática | 24 |
+| Ética, legislación y profesión | Ética y legislación informática | 6 |
+| Gestión de organizaciones | Economía de la empresa y emprendedores | 6 |
+| Inglés | Inglés III, Inglés IV | 12 |
+| Sistemas de información (opt.) | Investigación de mercados, Marketing estratégico, Marketing digital, Comunicación corporativa | 24 ofertados |
+| Dominios de aplicación de la informática (opt.) | Contabilidad I, Contabilidad II, Matemáticas financieras, Análisis de estados financieros | 24 ofertados |
+| Informática industrial (opt.) | Organización de empresas, Recursos humanos, Automática y control, Admin. producción y logística | 24 ofertados |
+| Visualización y sistemas multimedia (opt.) | Teoría y práctica de la comunicación visual, Sociedad de la información, Animación digital, Creación de productos multimedia | 24 ofertados |
+| Tópicos avanzados de tecnología y proyectos de software (opt.) | Lab. nuevas tendencias I y II, Taller GPS I y II | 24 ofertados |
+| Prácticas Académicas Externas | Prácticas | 6 |
+| Trabajo Fin de Grado | TFG | 12 |
+
+> - Las 9 materias básicas & obligatorias suman 198 ECTS. Junto con Prácticas (6) y TFG (12) son 216.
+> - El alumno cursa además 24 ECTS de optativas (4 asignaturas de las 20 ofertadas) para un total de 240 ECTS. La oferta optativa total es de 120 ECTS.
+
+La jerarquía completa del RD 822/2021 es de tres niveles: módulo > materia > asignatura. En [ModificaVsBOE2026.md](ModificaVsBOE2026.md) se mapean asignaturas a módulosBOE.
