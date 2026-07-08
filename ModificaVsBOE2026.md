@@ -160,6 +160,24 @@ Esta cobertura resuelve directamente IS3 (RAH14: problemas de integración), que
 | 3 | C2 | Planificar, concebir, dirigir proyectos | Baja | Cubierta en el módulo específico (FPSW, ISW2, DSI, PRY) y de forma transversal en EEE. | Argumentar cobertura cruzada entre módulos. El BOE 2026 no impide que competencias del Común sean reforzadas en el módulo específico. |
 | 4 | C3 | Negociación, liderazgo, comunicación | Media | Ningún RA del bloque Común mapea directamente esta competencia. Cobertura implícita vía trabajo en equipo en PRY y DSI. | **Opción A (recomendada):** añadir un resultado de aprendizaje explícito sobre comunicación y trabajo en equipo a una asignatura del Común, por ejemplo EDA1 o SICR, que ya tienen carácter metodológico. **Opción B:** argumentar transversalidad documentando evidencias en las guías docentes de PRY y DSI. |
 
+### Localización en el BOE de cada laguna
+
+El mecanismo que genera las lagunas está en el Anexo II, Apartado 3 ("Planificación de las enseñanzas", págs. 67498-67499): ordena cursar cada bloque con sus créditos tasados y presenta cada módulo como una tabla cuya cabecera exige "Competencias que deben adquirirse". La competencia debe adquirirse dentro de las asignaturas adscritas al módulo; la laguna aparece cuando la adquisición ocurre en asignaturas adscritas a otro.
+
+| Laguna | Punto del BOE | Pág. | Texto literal que la genera |
+|---|---|---|---|
+| 1 (C9) | Anexo II, Ap. 3, tabla del módulo común | 67500 | "Capacidad de conocer, comprender y evaluar la estructura y arquitectura de los computadores, así como los componentes básicos que los conforman." |
+| 1 bis: duplicidad que la anula | Anexo II, Ap. 3, tabla del módulo de formación básica | 67499 | "Conocimiento de la estructura, organización, funcionamiento e interconexión de los sistemas informáticos, los fundamentos de su programación, y su aplicación para la resolución de problemas propios de la ingeniería." El propio BOE pide lo mismo en dos módulos; TEO lo cubre en básica. |
+| 2 (C16) | Anexo II, Ap. 3, tabla del módulo común | 67500 | "Conocimiento y aplicación de los principios, metodologías y ciclos de vida de la ingeniería de software." RAK4 vive en FPSW e ISW2, adscritas al módulo específico. |
+| 3 (C2) | Anexo II, Ap. 3, tabla del módulo común | 67500 | "Capacidad para planificar, concebir, desplegar y dirigir proyectos, servicios y sistemas informáticos en todos los ámbitos, liderando su puesta en marcha y su mejora continua y valorando su impacto económico y social." RAC3 vive en FPSW, ISW2, DSI, PRY (específico) y EEE (fuera de módulo). |
+| 4 (C3) | Anexo II, Ap. 3, tabla del módulo común, en ambas columnas | 67500 | Competencia: "Capacidad para comprender la importancia de la negociación, los hábitos de trabajo efectivos, el liderazgo y las habilidades de comunicación en todos los entornos de desarrollo de software." Y además el primer RA propio del módulo: "será capaz de utilizar técnicas de negociación y de trabajo efectivas, así como las habilidades de comunicación y liderazgo de equipos [...] de manera inclusiva y conforme a principios éticos." |
+
+Notas:
+
+- Las lagunas 1-4 comparten página y tabla (módulo común, pág. 67500): una sola cita normativa con cuatro incisos, lo que simplifica la justificación en la memoria.
+- La laguna 4 es la única cuya exigencia aparece también en la columna de resultados de aprendizaje del módulo, no solo en la de competencias. Eso refuerza la opción A (RA explícito en una asignatura del Común) frente a la argumentación transversal: hay que responder a las dos columnas.
+- **Candidata a laguna 5 (pendiente de decisión):** la última competencia de la tabla del módulo de formación básica (pág. 67499) exige "Conocimiento adecuado del concepto de empresa, marco institucional y jurídico de la empresa. Organización y gestión de empresas." Las 10 asignaturas básicas del plan no la cubren; RAC1 vive en EEE (S8, obligatoria fuera de módulo). Misma estrategia de cobertura cruzada que las lagunas 2 y 3.
+
 ---
 
 ## Cambios necesarios en la memoria para obtener el carácter habilitante
