@@ -29,7 +29,11 @@ Se han realizado los siguientes ajustes, acordados en las reuniones de coordinac
 
 4. **Sistemas de evaluación.** Las pruebas teóricas finales y las prácticas finales se agrupan en una prueba final, como se aplica en las guías docentes. La evaluación continua tiene un mínimo del 30 % en todas las materias, como establece la memoria (anexo 5.1, «Actividades de evaluación»). Las horquillas de cada materia se ajustan a lo que se imparte. En Prácticas Académicas Externas, la evaluación continua se desglosa en memoria de prácticas (70 %) e informe de la empresa (30 %).
 
-Guías corregidas:
+## Guías docentes
+
+No forma parte de la solicitud de modificación: son correcciones de las guías que salieron al contrastarlas con la memoria.
+
+Corregidas:
 
 - Programación II: faltaban las 15 h de seminarios y talleres.
 - Contabilidad I, Contabilidad II y Matemáticas financieras: supervisión de actividades, 3,75 h y no 7,5.
@@ -37,7 +41,7 @@ Guías corregidas:
 - TFG: 12 ECTS y no 6.
 - Animación digital: no tenía sistema de evaluación; de momento lleva el de una guía hermana.
 
-Guías pendientes de corregir:
+Pendientes:
 
 - Bases de datos I: la evaluación suma 105 %.
 - Física: pide un mínimo en un «cuaderno de talleres» que no está entre sus instrumentos.
