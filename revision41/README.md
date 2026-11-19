@@ -10,6 +10,13 @@ Guías corregidas:
 - Contabilidad I, Contabilidad II y Matemáticas financieras: supervisión de actividades, 3,75 h y no 7,5.
 - Teoría y práctica de la comunicación visual y Estructuras de datos y algoritmos II: horas igualadas con el resto de su materia.
 - TFG: 12 ECTS y no 6.
+- Animación digital: no tenía sistema de evaluación; de momento lleva el de una guía hermana.
+
+Guías pendientes de corregir:
+
+- Bases de datos I: la evaluación suma 105 %.
+- Física: pide un mínimo en un «cuaderno de talleres» que no está entre sus instrumentos.
+- Recursos humanos: cita OHSAS 18001; pasa a ISO 45001 cuando se apruebe el modifica.
 
 ## Criterios
 
