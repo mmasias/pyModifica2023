@@ -56,3 +56,7 @@ La Resolución BOE-A-2026-10594 abre la vía para que el grado obtenga carácter
 
 - Análisis completo, competencia a competencia: [ModificaVsBOE2026.md](ModificaVsBOE2026.md)
 - Contraste de los RA del grado con los del BOE y ajustes de redacción propuestos: [misRAsVSboeRAs.md](misRAsVSboeRAs.md)
+
+## Revisión del apartado 4.1 (2026)
+
+Cambios de contenidos y de horas que se solicitan, con las decisiones aplicadas: [revision41/](revision41/README.md)
