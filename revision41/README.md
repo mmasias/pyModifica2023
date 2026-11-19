@@ -2,7 +2,7 @@
 
 - [Cambios de contenidos](cambios_contenidos.md)
 - [Cambios de horas](cambios_horas.md)
-- Sistema de evaluación: en curso
+- [Cambios del sistema de evaluación](cambios_evaluacion.md)
 
 Guías corregidas:
 
@@ -19,4 +19,4 @@ Guías corregidas:
 - Horas de una materia = suma de las de sus asignaturas. Arquitectura del software, sin guía aún, toma las de Ingeniería del software II.
 - Horas al cuarto de hora (3,8 es 3,75), con dos decimales en la memoria para que cada ficha cuadre con créditos × 25.
 - Prácticas y TFG ya recogen el plan modificado: no se ajustan a las guías vigentes.
-- Evaluación: lo que cada guía da a evaluación continua y a final tiene que caer en la horquilla de su materia.
+- Evaluación: lo que cada guía da a evaluación continua y a final tiene que caer en la horquilla de su materia. Las pruebas teórica y práctica finales se agrupan en una prueba final, y la continua tiene un mínimo del 30 %.
